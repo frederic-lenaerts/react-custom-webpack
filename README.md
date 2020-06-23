@@ -1,5 +1,4 @@
-# React From Scratch
-
+# React with Custom Webpack
 Webpack configuration for __development__
 * hot reloading
 * writing dev build to disk
